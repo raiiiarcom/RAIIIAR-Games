@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='utf-8'?>
+ <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Raiiiar - Games</name>
     <description>
         Raiiiar - Games that have been created for those extra, special events.
     </description>
     <author email="julius@raiiiar.com" href="http://www.raiiiar.com">
-        Julius Olatokunbo
+         Julius Olatokunbo
     </author>
     <preference name="permissions" value="none" />
     <preference name="phonegap-version" value="3.5.0" />
