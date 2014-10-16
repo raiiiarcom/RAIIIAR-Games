@@ -1,0 +1,152 @@
+@charset "iso-8859-1";
+.linksf { font-family: Verdana; font-size: 11px; color: #0066CC; text-decoration: none}
+.linksf:hover { font-family: Verdana; font-size: 11px; color: #660066; text-decoration: underline}
+
+.linklf {font-family: Arial, Helvetica, sans-serif;	font-size: 11.5px; font-weight: bold;	color: #660066; ; text-decoration: none}
+.linklf:hover {font-family: Arial, Helvetica, sans-serif; font-size: 11.5px; font-weight: bold; color: #FFFFFF; text-decoration: none}
+.linklf1 {font-family: Arial, Helvetica, sans-serif; font-size: 11.5px; font-weight: bold; color: #FFFFFF; text-decoration: none}
+
+.linklf2 {font-family: Arial, Helvetica, sans-serif;	font-size: 12px; font-weight: bold;	color: #660066; ; text-decoration: none}
+.linklf2:hover {font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #0066cc; text-decoration: none}
+
+.linksml{font-family: Verdana; font-size: 9px; color: #6767B4; text-decoration: none}
+.linksml:hover { font-family: Verdana; font-size: 9px; color: #660066; text-decoration: underline}
+
+.linksmll{
+font-family: Verdana; font-size: 9px; color: #660066; text-decoration: none}
+.linksmll:hover { font-family: Verdana; font-size: 9px; color: #660066; text-decoration: underline}
+
+.linktop {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+	background-position: center;
+	text-align: center;
+	vertical-align: middle;
+
+}
+.linktop:hover {font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold;color: #660066; text-decoration: none}
+.linktop1 {font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold;color: #660066; text-decoration: none}
+
+.linksh {font-family: Verdana; font-size: 11px; color: #6767B4; text-decoration: none}
+.linksh:hover { font-family: Verdana; font-size: 11px; color: #660066; text-decoration: underline}
+
+.flujabs {	font-family: Verdana;	font-size: 10px;	color: #003399;	font-weight: bold;}
+.bodytext {	font-family: Arial, Helvetica, sans-serif;	font-size: 11.5px;	color: #182894;}
+.bodytextCopia {font-family: Arial, Helvetica, sans-serif;	font-size: 12px;	color: #996699;}
+.txtsml {font-family: Verdana;	font-size: 9px;	color: #996699;}
+.tabla {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: none;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #978597;
+	border-right-color: #978597;
+	border-bottom-color: #978597;
+	border-left-color: #978597;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #660066;
+
+}
+
+.titlelk {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #666666;
+}
+.greytxt {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666666;
+	font-weight: normal;
+
+}
+
+.greytxtbg{
+	font-family: Verdana;
+	font-size: 11px;
+	color: #666666;
+	font-weight: normal;
+
+}
+.tabla1 {
+
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #978597;
+	border-right-color: #978597;
+	border-bottom-color: #978597;
+	border-left-color: #978597;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #660066;
+}
+.tabla3 {
+
+
+
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: none;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #CCCCCC;
+	border-right-color: #CCCCCC;
+	border-bottom-color: #CCCCCC;
+	border-left-color: #CCCCCC;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666666;
+}
+.tabla4 {
+
+
+
+
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: none;
+	border-right-style: solid;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-color: #978597;
+	border-right-color: #978597;
+	border-bottom-color: #978597;
+	border-left-color: #978597;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #660066;
+}
+.tabla2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+	border: 1px solid #cccccc;
+
+}
+.tabla3a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+	border: 1px solid #CCCCCC;
+
+}

@@ -1,0 +1,19 @@
+a  
+{
+	color: #666666;
+	font-weight:bold;
+}
+
+a:hover 
+{
+	color: #FFCC00;
+	font-weight:bold;
+}
+
+h1
+{
+	font-weight:bold;
+	font-family:Arial;
+	font-size:18;
+	color:#666666;
+}

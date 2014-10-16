@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<photostack3d>
+	
+	<swfs>
+      <swf>
+				<thumb src="Golf/chess.png" />
+				<swf src="Golf/chess.swf" />
+				<caption text="Raiiar.Co.Uk - Crazy Golf" />
+				<desc> <![CDATA[<h1>Raiiar.Co.Uk - Golf</h1> <br>Crazy Golf (available as an Android App)...<br>Designed by Julius Olatokunbo<br><a href="event:BACK">Back</a> <a href="event:http://www.Raiiar.Co.Uk/games/"> More</a> ]]> </desc>
+			</swf>
+			
+			<swf>
+				<thumb src="Connect4/chess.png" />
+				<swf src="Connect4/chess.swf" />
+				<caption text="Raiiar.Co.Uk - Connect4" />
+				<desc> <![CDATA[<h1>Raiiar.Co.Uk - Connect4</h1> <br>The Simple Game of Connect4 (available as an iPhone App)...<br>Designed by Julius Olatokunbo<br><a href="event:BACK">Back</a> <a href="event:http://www.Raiiar.Co.Uk/games/"> More</a> ]]> </desc>
+			</swf>
+
+			<swf>
+				<thumb src="Advanced Chess/chess.png" />
+				<swf src="Advanced Chess/chess.swf" />
+				<caption text="Raiiar.Co.Uk - Advanced Chess" />
+				<desc> <![CDATA[<h1>Raiiar.Co.Uk - Talking Chess Opponent</h1> <br>A Talking Chess Opponent (available as an iPhone App)...<br>Designed by Julius Olatokunbo<br><a href="event:BACK">Back</a> <a href="event:http://www.Raiiar.Co.Uk/games/"> More</a> ]]> </desc>
+			</swf>
+
+      			<swf>
+				<thumb src="Backgammon/chess.png" />
+				<swf src="Backgammon/chess.swf" />
+				<caption text="Raiiar.Co.Uk - Backgammon" />
+				<desc> <![CDATA[<h1>Raiiar.Co.Uk - Backgammon</h1> <br>Classic Backgammon (available as an Android App)...<br>Designed by Julius Olatokunbo<br><a href="event:BACK">Back</a> <a href="event:http://www.Raiiar.Co.Uk/games/"> More</a> ]]> </desc>
+			</swf>
+
+      			<swf>
+				<thumb src="EtchAscetch/chess.png" />
+				<swf src="EtchAscetch/chess.swf" />
+				<caption text="Raiiar.Co.Uk - EtchAscetch" />
+				<desc> <![CDATA[<h1>Raiiar.Co.Uk - EtchAscetch</h1> <br>Classic EtchAscetch (available as an Android App)...<br>Designed by Julius Olatokunbo<br><a href="event:BACK">Back</a> <a href="event:http://www.Raiiar.Co.Uk/games/"> More</a> ]]> </desc>
+			</swf>
+
+      <swf>
+				<thumb src="FLASH - sudoku/chess.png" />
+				<swf src="FLASH - sudoku/chess.swf" />
+				<caption text="Raiiar.Co.Uk - Sudoku" />
+				<desc> <![CDATA[<h1>Raiiar.Co.Uk - FLASH - sudoku</h1> <br>Sudoku (available as an Android App)...<br>Designed by Julius Olatokunbo<br><a href="event:BACK">Back</a> <a href="event:http://www.Raiiar.Co.Uk/games/"> More</a> ]]> </desc>
+			</swf>
+
+      <swf>
+				<thumb src="Flash_Chess/chess.png" />
+				<swf src="Flash_Chess/chess.swf" />
+				<caption text="Raiiar.Co.Uk - Flash_Chess" />
+				<desc> <![CDATA[<h1>Raiiar.Co.Uk - Flash_Chess</h1> <br>Another Chess Engine (available as an Android App)...<br>Designed by Julius Olatokunbo<br><a href="event:BACK">Back</a> <a href="event:http://www.Raiiar.Co.Uk/games/"> More</a> ]]> </desc>
+			</swf>
+
+
+      <swf>
+				<thumb src="Gomoku/chess.png" />
+				<swf src="Gomoku/chess.swf" />
+				<caption text="Raiiar.Co.Uk - Gomoku (5 in a Row)" />
+				<desc> <![CDATA[<h1>Raiiar.Co.Uk - Gomoku (5 in a Row)</h1> <br>Gomoku try and beat the computer getting 5 in a Row, Diag or Horiz (available as an Android App)...<br>Designed by Julius Olatokunbo<br><a href="event:BACK">Back</a> <a href="event:http://www.Raiiar.Co.Uk/games/"> More</a> ]]> </desc>
+			</swf>
+
+			<swf>
+				<thumb src="Bow_Arrow/chess.png" />
+				<swf src="Bow_Arrow/chess.swf" />
+				<caption text="Raiiar.Co.Uk - BowArrow" />
+				<desc> <![CDATA[<h1>Raiiar.Co.Uk - BowArrow</h1> <br>William Tell by ANY other name...<br>Designed by Julius Olatokunbo<br><a href="event:BACK">Back</a> <a href="event:http://www.Raiiar.Co.Uk/games/"> More</a> ]]> </desc>
+			</swf>
+
+      <swf>
+				<thumb src="GunFight/chess.png" />
+				<swf src="GunFight/chess.swf" />
+				<caption text="Raiiar.Co.Uk - GunFight" />
+				<desc> <![CDATA[<h1>Raiiar.Co.Uk - GunFight</h1> <br>Try and beat the computer in GunFight @ The OK Coral... (available as an Android App)...<br>Designed by Julius Olatokunbo<br><a href="event:BACK">Back</a> <a href="event:http://www.Raiiar.Co.Uk/games/"> More</a> ]]> </desc>
+			</swf>
+
+      <swf>
+				<thumb src="LunarLander/chess.png" />
+				<swf src="LunarLander/chess.swf" />
+				<caption text="Raiiar.Co.Uk - LunarLander" />
+				<desc> <![CDATA[<h1>Raiiar.Co.Uk - LunarLander</h1> <br>Try and Land The Lunar Module (and try and collect Humans...)... (available as an Android App)...<br>Designed by Julius Olatokunbo<br><a href="event:BACK">Back</a> <a href="event:http://www.Raiiar.Co.Uk/games/"> More</a> ]]> </desc>
+			</swf>
+      
+
+
+      <swf>
+				<thumb src="mahJong/chess.png" />
+				<swf src="mahJong/chess.swf" />
+				<caption text="Raiiar.Co.Uk - mahJong" />
+				<desc> <![CDATA[<h1>Raiiar.Co.Uk - mahJong</h1> <br>Classic MahJong (available as an Android App)...<br>Designed by Julius Olatokunbo<br><a href="event:BACK">Back</a> <a href="event:http://www.Raiiar.Co.Uk/games/"> More</a> ]]> </desc>
+			</swf>
+
+      <swf>
+				<thumb src="numbers/numbers.png" />
+				<swf src="numbers/numbers.swf" />
+				<caption text="Raiiar.Co.Uk - numbers" />
+				<desc> <![CDATA[<h1>Raiiar.Co.Uk - numbers</h1> <br>Classic numbers (available as an Android App)...<br>Designed by Julius Olatokunbo<br><a href="event:BACK">Back</a> <a href="event:http://www.Raiiar.Co.Uk/games/"> More</a> ]]> </desc>
+			</swf>
+
+      <swf>
+				<thumb src="Othello/chess.png" />
+				<swf src="Othello/chess.swf" />
+				<caption text="Raiiar.Co.Uk - Othello" />
+				<desc> <![CDATA[<h1>Raiiar.Co.Uk - Othello</h1> <br>Classic Othello (or Reversie)) (available as an Android App)...<br>Designed by Julius Olatokunbo<br><a href="event:BACK">Back</a> <a href="event:http://www.Raiiar.Co.Uk/games/"> More</a> ]]> </desc>
+			</swf>
+
+      <swf>
+				<thumb src="pong_topspin/chess.png" />
+				<swf src="pong_topspin/chess.swf" />
+				<caption text="Raiiar.Co.Uk - pong_topspin" />
+				<desc> <![CDATA[<h1>Raiiar.Co.Uk - pong_topspin</h1> <br>Classic Pong (with TOPSPIN... Try If U Dare...) (available as an Android App)...<br>Designed by Julius Olatokunbo<br><a href="event:BACK">Back</a> <a href="event:http://www.Raiiar.Co.Uk/games/"> More</a> ]]> </desc>
+			</swf>
+
+      <swf>
+				<thumb src="roulette/chess.png" />
+				<swf src="roulette/chess.swf" />
+				<caption text="Raiiar.Co.Uk - roulette" />
+				<desc> <![CDATA[<h1>Raiiar.Co.Uk - roulette</h1> <br>Classic roulette (available as an Android App)...<br>Designed by Julius Olatokunbo<br><a href="event:BACK">Back</a> <a href="event:http://www.Raiiar.Co.Uk/games/"> More</a> ]]> </desc>
+			</swf>
+      
+      <swf>
+				<thumb src="rubics_cube/chess.png" />
+				<swf src="rubics_cube/chess.swf" />
+				<caption text="Raiiar.Co.Uk - rubics_cube" />
+				<desc> <![CDATA[<h1>Raiiar.Co.Uk - rubics_cube</h1> <br>3d Animated Classic Rubics Cube (available as an Android App)...<br>Designed by Julius Olatokunbo<br><a href="event:BACK">Back</a> <a href="event:http://www.Raiiar.Co.Uk/games/"> More</a> ]]> </desc>
+			</swf>
+
+      <swf>
+				<thumb src="scrabble_trainer/chess.png" />
+				<swf src="scrabble_trainer/chess.swf" />
+				<caption text="Raiiar.Co.Uk - scrabble_trainer" />
+				<desc> <![CDATA[<h1>Raiiar.Co.Uk - scrabble_trainer</h1> <br>3d Animated Scrabble (available as an Android App)...<br>Designed by Julius Olatokunbo<br><a href="event:BACK">Back</a> <a href="event:http://www.Raiiar.Co.Uk/games/"> More</a> ]]> </desc>
+			</swf>
+
+
+      <swf>
+				<thumb src="sudoku/sudoku.png" />
+				<swf src="sudoku/sudoku.swf" />
+				<caption text="Raiiar.Co.Uk - sudoku" />
+				<desc> <![CDATA[<h1>Raiiar.Co.Uk - sudoku</h1> <br>Another sudoku engine (available as an Android App)...<br>Designed by Julius Olatokunbo<br><a href="event:BACK">Back</a> <a href="event:http://www.Raiiar.Co.Uk/games/"> More</a> ]]> </desc>
+			</swf>
+
+      <swf>
+				<thumb src="youTube/chess.png" />
+				<swf src="youTube/chess.swf" />
+				<caption text="Raiiar.Co.Uk - youTube" />
+				<desc> <![CDATA[<h1>Raiiar.Co.Uk - youTube</h1> <br>youTube Downloader (available as an Android App)...<br>Designed by Julius Olatokunbo<br><a href="event:BACK">Back</a> <a href="event:http://www.Raiiar.Co.Uk/games/"> More</a> ]]> </desc>
+			</swf>
+	</swfs>
+</photostack3d>

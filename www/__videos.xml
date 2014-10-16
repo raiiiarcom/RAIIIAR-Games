@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<photostack3d>
+	
+	<videos>
+			<video>
+				<thumb src="videos/video1.jpg" />
+				<vid src="videos/video1.flv" />
+				<caption text="Caption 1" />
+				<desc> <![CDATA[<h1>Description Description</h1> <br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent euismod nunc id ligula. Vivamus ac justo. Morbi imperdiet. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque est eros, viverra quis, pellentesque nec, elementum id, mi. Nulla malesuada. Proin blandit tincidunt neque. <br><br><a href="event:BACK">Back</a> <a href="event:http://www.google.com"> More</a> ]]> </desc>
+			</video>
+			
+			<video>
+				<thumb src="videos/video2.jpg" />
+				<vid src="videos/video2.flv" />
+				<caption text="Caption 2"/>
+				<desc> <![CDATA[<h1>Description Description</h1> <br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent euismod nunc id ligula. Vivamus ac justo. Morbi imperdiet. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque est eros, viverra quis, pellentesque nec, elementum id, mi. Nulla malesuada. Proin blandit tincidunt neque. <br><br><a href="event:BACK">Back</a> <a href="event:http://www.google.com"> More</a> ]]> </desc>
+			</video>
+			
+			<video>
+				<thumb src="videos/video3.jpg" />
+				<vid src="videos/video3.flv" />
+				<caption text="Caption 3"/>
+				<desc> <![CDATA[<h1>Description Description</h1> <br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent euismod nunc id ligula. Vivamus ac justo. Morbi imperdiet. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque est eros, viverra quis, pellentesque nec, elementum id, mi. Nulla malesuada. Proin blandit tincidunt neque. <br><br><a href="event:BACK">Back</a> <a href="event:http://www.google.com"> More</a> ]]> </desc>
+			</video>
+			
+			<video>
+				<thumb src="videos/video4.jpg" />
+				<vid src="videos/video4.flv" />
+				<caption text="Caption 4"/>
+				<desc> <![CDATA[<h1>Description Description</h1> <br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent euismod nunc id ligula. Vivamus ac justo. Morbi imperdiet. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque est eros, viverra quis, pellentesque nec, elementum id, mi. Nulla malesuada. Proin blandit tincidunt neque. <br><br><a href="event:BACK">Back</a> <a href="event:http://www.google.com"> More</a> ]]> </desc>
+			</video>
+			
+			<video>
+				<thumb src="videos/video1.jpg" />
+				<vid src="videos/video1.flv" />
+				<caption text="Caption 5"/>
+				<desc> <![CDATA[<h1>Description Description</h1> <br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent euismod nunc id ligula. Vivamus ac justo. Morbi imperdiet. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque est eros, viverra quis, pellentesque nec, elementum id, mi. Nulla malesuada. Proin blandit tincidunt neque. <br><br><a href="event:BACK">Back</a> <a href="event:http://www.google.com"> More</a> ]]> </desc>
+			</video>
+			
+			<video>
+				<thumb src="videos/video2.jpg" />
+				<vid src="videos/video2.flv" />
+				<caption text="Caption 6"/>
+				<desc> <![CDATA[<h1>Description Description</h1> <br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent euismod nunc id ligula. Vivamus ac justo. Morbi imperdiet. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque est eros, viverra quis, pellentesque nec, elementum id, mi. Nulla malesuada. Proin blandit tincidunt neque. <br><br><a href="event:BACK">Back</a> <a href="event:http://www.google.com"> More</a> ]]> </desc>
+			</video>
+			
+			<video>
+				<thumb src="videos/video3.jpg" />
+				<vid src="videos/video3.flv" />
+				<caption text="Caption 7"/>
+				<desc> <![CDATA[<h1>Description Description</h1> <br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent euismod nunc id ligula. Vivamus ac justo. Morbi imperdiet. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque est eros, viverra quis, pellentesque nec, elementum id, mi. Nulla malesuada. Proin blandit tincidunt neque. <br><br><a href="event:BACK">Back</a> <a href="event:http://www.google.com"> More</a> ]]> </desc>
+			</video>
+			
+			<video>
+				<thumb src="videos/video4.jpg" />
+				<vid src="videos/video4.flv" />
+				<caption text="Caption 8"/>
+				<desc> <![CDATA[<h1>Description Description</h1> <br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent euismod nunc id ligula. Vivamus ac justo. Morbi imperdiet. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque est eros, viverra quis, pellentesque nec, elementum id, mi. Nulla malesuada. Proin blandit tincidunt neque. <br><br><a href="event:BACK">Back</a> <a href="event:http://www.google.com"> More</a> ]]> </desc>
+			</video>
+			
+			<video>
+				<thumb src="videos/video1.jpg" />
+				<vid src="videos/video1.flv" />
+				<caption text="Caption 9"/>
+				<desc> <![CDATA[<h1>Description Description</h1> <br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent euismod nunc id ligula. Vivamus ac justo. Morbi imperdiet. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque est eros, viverra quis, pellentesque nec, elementum id, mi. Nulla malesuada. Proin blandit tincidunt neque. <br><br><a href="event:BACK">Back</a> <a href="event:http://www.google.com"> More</a> ]]> </desc>
+			</video>
+	
+	</videos>
+	
+</photostack3d>
